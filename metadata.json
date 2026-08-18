@@ -1,0 +1,6 @@
+{
+  "name": "Consultorios Barrio Martin",
+  "description": "Sitio web oficial y sistema de gestión de turnos para Pediatría y Hematología - Dra. Andrea Carolina Torres",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
